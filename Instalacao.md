@@ -1,4 +1,4 @@
-## Instalação
+# Instalação
 
 ### Windows
 
@@ -99,4 +99,5 @@ de ”.git” . Dentro dela ficarão os arquivos internos do git, e não é nece
   - No **Windows**:
     - `$ clip < ~/.ssh/id_rsa.pub`
   - No **Mac**:
-    - `$ pbcopy < ~/.ssh/id_rsa.pub`
+    - `$ pbcopy < ~/.ssh/id_rsa.pub`  
+- Agora só colar sua chave em sua conta remota.
