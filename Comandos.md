@@ -13,7 +13,7 @@
   - Para baixar atualizações do repositório.
 
 ## Branch
-- `$git branch` 
+- ```$git branch``` 
   - Listar braches existentes.
 - `$git checkout -b funcionalidade_x`
   - Cria uma nova branch e chamado funcionalidade_x e a seleciona.
