@@ -22,7 +22,7 @@
 - `$git branch -d funcionalidade_x`
   - Deleta a branch.
 - `$git merge nomeBranch`
-  - Atualiza a branch aonde você está para a qual você escreveu no comando.
+  - Atualiza a branch que você escreveu no comando para a master passar a ter o conteúdo do branch.
 
 ## Links Úteis
 
