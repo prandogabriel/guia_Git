@@ -2,7 +2,7 @@
 
 > Neste guia você iŕa aprender um pouco sobre como trabalhar com git.
 
-<img src="/home/prando/Documentos/devWeb/guia_Git/imgs/git-github.jpg" alt="img" style="zoom:25%;" />
+<img src="imgs/git-github.jpg" alt="img" style="zoom:25%;" />
 
 
 
