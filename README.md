@@ -26,13 +26,17 @@
 
 
 
+# .gitignore para que serve :question:
+
+- [.gitignore](./gitignore) 
+
+
+
 # Configurando repositório remoto
 
 > Vamos usar github como exemplo, mas para outros repositórios remotos o procedimento é basicamente o mesmo.
 
-- [Linux](./configGithub/linux.md) :purple_heart::100:
-- [Mac](./configGithub/mac.md) :money_with_wings:
-- [Windows](./configGithub/windows.md)  :weary:
+- [configurando chave ssh](./configGithub/) :purple_heart::100:
 
 
 
