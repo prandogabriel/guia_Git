@@ -2,7 +2,7 @@
 
 > Neste guia você iŕa aprender um pouco sobre como trabalhar com git.
 
-<img src="imgs/git-github.jpg" alt="demo" style="zoom:25%;" height="425"/>
+<img src="imgs/git-github.jpg" alt="demo" style="zoom:25%;" height="225"/>
 
 
 
