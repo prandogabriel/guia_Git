@@ -34,7 +34,7 @@
 
 > Comandos serão iguais em ambos os SO.
 
-- [Comandos]()
+- [Comandos](./comandos/comandos.md)
 
 
 
