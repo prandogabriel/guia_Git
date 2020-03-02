@@ -12,11 +12,17 @@
 
 
 
-# Instalação
+# Instalação e configuração
 
 - [Linux](./instalacao/linux.md) :purple_heart::100:
 - [Mac](./instalacao/mac.md) :money_with_wings:
 - [Windows](./instalacao/windows.md) :weary:
+
+
+
+# Estágios de um commit
+
+- [Os 3 estágios](./estagios)
 
 
 
