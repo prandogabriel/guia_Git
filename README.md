@@ -60,7 +60,9 @@
 
 - [Curso Básico de git](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 
-  
+- [Lista de comandos](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/)
+
+- [Lista de comandos](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/)
 
 ## License
 
